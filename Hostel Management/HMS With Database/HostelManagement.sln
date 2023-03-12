@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostelManagement", "HostelManagement\HostelManagement.csproj", "{72F99853-7FFE-4979-96A5-04ECB113AA86}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{BD740E5C-2A77-4739-A46F-86D9AF5943DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72F99853-7FFE-4979-96A5-04ECB113AA86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F99853-7FFE-4979-96A5-04ECB113AA86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F99853-7FFE-4979-96A5-04ECB113AA86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F99853-7FFE-4979-96A5-04ECB113AA86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD740E5C-2A77-4739-A46F-86D9AF5943DA}.Debug|Any CPU.ActiveCfg = Debug
+		{BD740E5C-2A77-4739-A46F-86D9AF5943DA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {271766D1-68C5-4311-8C69-4A34D357BD24}
+	EndGlobalSection
+EndGlobal
